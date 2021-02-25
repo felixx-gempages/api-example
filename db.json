@@ -73,15 +73,6 @@
       "published": true
     },
     {
-      "id": 1606980252,
-      "title": "123",
-      "updated_at": "2020-12-16T10:06:35.830Z",
-      "thumbnail_url": null,
-      "layout": "default",
-      "type": "template-product",
-      "published": false
-    },
-    {
       "id": 1606980111,
       "title": "1234567",
       "updated_at": "2020-12-03T07:21:52.774Z",
@@ -151,15 +142,6 @@
       "layout": "default",
       "type": "template-collection",
       "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/noragem.myshopify.com/-collections-alcohol-spirits-mixers-mixers-viewgem-1592275900-template.jpg",
-      "published": false
-    },
-    {
-      "id": 1603342119,
-      "title": "123",
-      "updated_at": "2020-10-22T04:50:12.370Z",
-      "layout": "default",
-      "type": "template-collection",
-      "thumbnail_url": null,
       "published": false
     },
     {
@@ -288,16 +270,6 @@
       "layout": "default",
       "type": "template-page",
       "published": true,
-      "author": "Shopify API"
-    },
-    {
-      "thumbnail_url": null,
-      "id": 68479385766,
-      "title": "Copy of test",
-      "updated_at": "2020-10-06T04:54:23.441Z",
-      "layout": "default",
-      "type": "template-page",
-      "published": false,
       "author": "Shopify API"
     },
     {
