@@ -1,29 +1,20 @@
 {
   "pages": [
     {
-      "id": 1601377226,
-      "title": "Duplicate from huhu",
-      "updated_at": "2020-10-02T04:29:38.477Z",
-      "thumbnail_url": null,
-      "layout": "default",
-      "type": "template-index",
-      "published": false
-    },
-    {
       "id": 1601377245,
       "title": "Duplicate from huhu",
       "updated_at": "2020-10-02T04:29:34.319Z",
       "thumbnail_url": null,
       "layout": "default",
       "type": "template-index",
-      "published": false
+      "published": true
     },
     {
       "id": 1599449197,
       "title": "her",
       "updated_at": "2020-09-29T04:21:10.756Z",
       "thumbnail_url": "https://gempages-screenshots-lambda.s3.amazonaws.com/noragem.myshopify.com/-viewgem-1599449197-template.jpg",
-      "layout": "default",
+      "layout": "blank",
       "type": "template-index",
       "published": false
     },
@@ -79,16 +70,7 @@
       "thumbnail_url": null,
       "layout": "default",
       "type": "template-product",
-      "published": false
-    },
-    {
-      "id": 1606980065,
-      "title": "1234567",
-      "updated_at": "2020-12-03T07:21:06.330Z",
-      "thumbnail_url": null,
-      "layout": "default",
-      "type": "template-product",
-      "published": false
+      "published": true
     },
     {
       "id": 1606454346,
@@ -97,7 +79,7 @@
       "thumbnail_url": null,
       "layout": "default",
       "type": "template-product",
-      "published": false
+      "published": true
     },
     {
       "id": 1606376276,
@@ -112,15 +94,6 @@
       "id": 1605770662,
       "title": "blank",
       "updated_at": "2020-11-19T07:24:54.333Z",
-      "thumbnail_url": null,
-      "layout": "default",
-      "type": "template-product",
-      "published": false
-    },
-    {
-      "id": 1605770594,
-      "title": "123",
-      "updated_at": "2020-11-19T07:23:39.650Z",
       "thumbnail_url": null,
       "layout": "default",
       "type": "template-product",
@@ -160,7 +133,7 @@
       "layout": "default",
       "type": "template-collection",
       "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/noragem.myshopify.com/-collections-alcohol-spirits-mixers-mixers-viewgem-1600397861-template.jpg",
-      "published": false
+      "published": true
     },
     {
       "id": 1599790640,
@@ -172,39 +145,12 @@
       "published": false
     },
     {
-      "id": 1596862512,
-      "title": "111",
-      "updated_at": "2020-08-10T08:30:02.982Z",
-      "layout": "default",
-      "type": "template-collection",
-      "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/noragem.myshopify.com/-collections-alcohol-spirits-mixers-mixers-viewgem-1596862512-template.jpg",
-      "published": false
-    },
-    {
-      "id": 1595900672,
-      "title": "1",
-      "updated_at": "2020-07-28T09:32:28.089Z",
-      "layout": "default",
-      "type": "template-collection",
-      "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/noragem.myshopify.com/-collections-alcohol-spirits-mixers-mixers-viewgem-1595900672-template.jpg",
-      "published": false
-    },
-    {
       "id": 385365868621,
       "title": "11111111111111111111111aaaaaaaaaaaaa",
       "updated_at": "2020-06-02T05:26:36-04:00",
       "layout": "default",
       "type": "template-article",
       "author": "Nora Galvin",
-      "published": true
-    },
-    {
-      "id": 385365835853,
-      "title": "asd",
-      "updated_at": "2020-06-02T05:19:49-04:00",
-      "layout": "default",
-      "type": "template-article",
-      "author": "Shopify API",
       "published": true
     },
     {
@@ -244,15 +190,6 @@
       "published": true
     },
     {
-      "id": 385283424333,
-      "title": "hello it's me",
-      "updated_at": "2020-05-25T07:08:42-04:00",
-      "layout": "default",
-      "type": "template-article",
-      "author": "Shopify API",
-      "published": true
-    },
-    {
       "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/dragon-born-x.myshopify.com/-pages-copy-of-opledadawd.jpg",
       "id": 62398464166,
       "title": "Copy of opledadawd",
@@ -274,7 +211,7 @@
     },
     {
       "id": 61973758118,
-      "title": "Copy of tetetete",
+      "title": "Blu bla blo bli",
       "updated_at": "2020-07-02T04:44:15-04:00",
       "layout": "default",
       "type": "template-page",
@@ -291,30 +228,10 @@
       "author": "Shopify API"
     },
     {
-      "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/dragon-born-x.myshopify.com/-pages-copy-of-tetetete-2.jpg",
-      "id": 61973987494,
-      "title": "Copy of tetetete",
-      "updated_at": "2020-08-28T03:59:12.340Z",
-      "layout": "default",
-      "type": "template-page",
-      "published": false,
-      "author": "Shopify API"
-    },
-    {
       "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/dragon-born-x.myshopify.com/-pages-copy-of-tetetete-3.jpg",
       "id": 61975658662,
-      "title": "Copy of tetetete",
+      "title": "Mlem mlem mlem mlem",
       "updated_at": "2020-08-28T03:59:57.006Z",
-      "layout": "default",
-      "type": "template-page",
-      "published": false,
-      "author": "Shopify API"
-    },
-    {
-      "thumbnail_url": "https://longtests3screenshot.s3.amazonaws.com/dragon-born-x.myshopify.com/-pages-copy-of-tetetete-4.jpg",
-      "id": 61975724198,
-      "title": "Copy of tetetete",
-      "updated_at": "2020-08-28T03:59:45.942Z",
       "layout": "default",
       "type": "template-page",
       "published": false,
