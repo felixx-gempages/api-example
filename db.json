@@ -237,5 +237,12 @@
       "published": false,
       "author": "Shopify API"
     }
-  ]
+  ],
+  "unsubscribe-emails": {
+    "data": {
+      "shopify_domain": "norogem.myshopify.com",
+      "email_type": "unsubscribed_analytics",
+      "exp": 1614243118
+    }
+  }
 }
