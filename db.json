@@ -245,7 +245,7 @@
       "exp": 1614243118
     }
   },
-  "api/image/get": {
+  "media": {
     "success": true,
     "message": "Get image successfuly",
     "token": "uebukcbbjsfhahkngbji",
