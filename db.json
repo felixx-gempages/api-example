@@ -245,39 +245,43 @@
       "exp": 1614243118
     }
   },
-  "media": {
-    "success": true,
-    "message": "Get image successfuly",
-    "token": "uebukcbbjsfhahkngbji",
-    "images": [
-      {
-        "id": "6aea6ae8-0ac9-4c9a-9880-6f1e2a0ca4b5",
-        "alt": "tiger-glowing-eyes-animals-uhdpaper.com-4K-4.2354.jpg",
-        "src": "https://ucarecdn.com/6aea6ae8-0ac9-4c9a-9880-6f1e2a0ca4b5/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
-        "size": 2294056.0,
-        "created_at": "2021-02-27T04:10:53.091Z"
-      },
-      {
-        "id": "ce08e6c9-52a2-4945-b472-a7c87be04e26",
-        "alt": "4485761_codang.jpg",
-        "src": "https://ucarecdn.com/ce08e6c9-52a2-4945-b472-a7c87be04e26/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
-        "size": 146722.0,
-        "created_at": "2021-02-27T04:10:50.441Z"
-      },
-      {
-        "id": "f3f6424c-fbcb-440c-b6e6-674c43055873",
-        "alt": "kat.jpg",
-        "src": "https://ucarecdn.com/f3f6424c-fbcb-440c-b6e6-674c43055873/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
-        "size": 64430.0,
-        "created_at": "2021-02-27T04:10:34.165Z"
-      },
-      {
-        "id": "503eaee1-484c-49eb-8b3e-912c7a54613b",
-        "alt": "serena.jpg",
-        "src": "https://ucarecdn.com/503eaee1-484c-49eb-8b3e-912c7a54613b/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
-        "size": 46246.0,
-        "created_at": "2021-02-27T04:10:30.117Z"
+  "api": {
+    "image": {
+      "get": {
+        "success": true,
+        "message": "Get image successfuly",
+        "token": "uebukcbbjsfhahkngbji",
+        "images": [
+          {
+            "id": "6aea6ae8-0ac9-4c9a-9880-6f1e2a0ca4b5",
+            "alt": "tiger-glowing-eyes-animals-uhdpaper.com-4K-4.2354.jpg",
+            "src": "https://ucarecdn.com/6aea6ae8-0ac9-4c9a-9880-6f1e2a0ca4b5/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "size": 2294056.0,
+            "created_at": "2021-02-27T04:10:53.091Z"
+          },
+          {
+            "id": "ce08e6c9-52a2-4945-b472-a7c87be04e26",
+            "alt": "4485761_codang.jpg",
+            "src": "https://ucarecdn.com/ce08e6c9-52a2-4945-b472-a7c87be04e26/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "size": 146722.0,
+            "created_at": "2021-02-27T04:10:50.441Z"
+          },
+          {
+            "id": "f3f6424c-fbcb-440c-b6e6-674c43055873",
+            "alt": "kat.jpg",
+            "src": "https://ucarecdn.com/f3f6424c-fbcb-440c-b6e6-674c43055873/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "size": 64430.0,
+            "created_at": "2021-02-27T04:10:34.165Z"
+          },
+          {
+            "id": "503eaee1-484c-49eb-8b3e-912c7a54613b",
+            "alt": "serena.jpg",
+            "src": "https://ucarecdn.com/503eaee1-484c-49eb-8b3e-912c7a54613b/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+            "size": 46246.0,
+            "created_at": "2021-02-27T04:10:30.117Z"
+          }
+        ]
       }
-    ]
+    }
   }
 }
